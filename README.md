@@ -26,7 +26,10 @@ Click Speed Heading
 ```
 npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-config-airbnb-base eslint-plugin-node eslint-config-node
 ```
-
+or
+```
+yarn add --dev eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-config-airbnb-base eslint-plugin-node eslint-config-node
+```
 <h4 id="three">3. Create .prettierrc for any prettier rules (semicolons, quotes, etc)</h4>
 
 ```
