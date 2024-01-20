@@ -73,5 +73,50 @@ yarn add --dev eslint prettier eslint-plugin-prettier eslint-config-prettier esl
 <h4 id="four">5.Package npm init @eslint/config</h4>
 
 ```
-npm install @eslint/config
+npm init @eslint/config
 ```
+Answer:
+? How would you like to use ESLint? ...
+  To check syntax only
+  To check syntax and find problems
+- [x] To check syntax, find problems, and enforce code style
+
+? What type of modules does your project use? ...
+- [x] JavaScript modules (import/export)
+  CommonJS (require/exports)
+  None of these
+
+? Which framework does your project use? ...
+  React
+  Vue.js
+- [x] None of these
+
+? Does your project use TypeScript? » No / Yes  -> No
+
+? Where does your code run? ...  (Press <space> to select, <a> to toggle all, <i> to invert selection)
+ Browser
+- [x] Node
+
+? How would you like to define a style for your project? ...
+  Use a popular style guide
+- [x] Answer questions about your style
+
+? What format do you want your config file to be in? ...
+- [x]  JavaScript
+  YAML
+  JSON
+ 
+? What style of indentation do you use? ...
+  Tabs
+- [x] Spaces
+
+? What quotes do you use for strings? ...
+- [x] Double
+  Single
+
+? What line endings do you use? ...
+- [x] Unix
+  Windows
+
+√ Do you require semicolons? · No / Yes -> Yes
+      
