@@ -71,6 +71,7 @@ yarn add --dev eslint prettier eslint-plugin-prettier eslint-config-prettier esl
 }
 ```
 <h4 id="four">5.Package npm init @eslint/config</h4>
+
 ```
 npm install @eslint/config
 ```
