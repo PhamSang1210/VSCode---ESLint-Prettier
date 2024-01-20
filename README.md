@@ -44,7 +44,7 @@ yarn add --dev eslint prettier eslint-plugin-prettier eslint-config-prettier esl
 }
 ```
 
-<h4 id="four">4. Create `.eslintrc.json` file (You can generate with npx eslint --init)</h4>
+<h4 id="four">4. Create` .eslintrc.json ` file (You can generate with npx eslint --init)</h4>
 
 ```
 {
