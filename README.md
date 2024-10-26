@@ -24,13 +24,13 @@ Click Speed Heading
 <h4 id="two">2. Install Packages</h4>
 
 ```
-npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-config-airbnb-base eslint-plugin-node eslint-config-node
+npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-config-airbnb-base eslint-plugin-node eslint-config-node -f
 ```
 
 or
 
 ```
-yarn add --dev eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-config-airbnb-base eslint-plugin-node eslint-config-node
+yarn add --dev eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-config-airbnb-base eslint-plugin-node eslint-config-node -f
 ```
 
 <h4 id="three">3. Create .prettierrc for any prettier rules (semicolons, quotes, etc)</h4>
